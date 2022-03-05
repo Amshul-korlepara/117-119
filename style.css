@@ -1,0 +1,20 @@
+body{
+    background-color: skyblue;
+
+}
+
+#score{
+font-size: 20px;
+ margin-right: 650px;
+
+
+}
+#timer{
+    font-size: 20px;
+    margin-left: 650px;
+    
+}
+
+p{
+    font-size: 20px;
+}
